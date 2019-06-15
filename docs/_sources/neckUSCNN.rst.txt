@@ -1,0 +1,7 @@
+neckUSCNN module
+================
+
+.. automodule:: neckUSCNN
+   :members:
+   :undoc-members:
+   :show-inheritance:
